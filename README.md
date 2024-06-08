@@ -1,4 +1,4 @@
-#Final Project of IT course🌐
+# Final Project of IT course🌐
 This project showcases a sample design for a mid-sized enterprise network, focusing on clarity and departmental segregation. The network utilizes a hierarchical structure with clearly defined layers:
 
 Core: The core layer consists of a single ROOT CORE switch, which acts as the backbone of the network, providing high-speed connections between all other layers.
